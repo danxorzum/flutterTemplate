@@ -8,29 +8,27 @@ Plantilla de esquema Flutter.
     -icons
     -images
 - lib
-    \n -core
-        -controllers
-        -services
-        -providers
-    -data
-        -models
-        -resps
-    -routes
-    -settings
-    -temp
-        -labs
-        -catalog
-    -themes
-    -tools
-        -helpers
-    -ui
-        -layouts
-        -pages
-        -views
-        -widgets
+    - core
+        - controllers
+        - services
+        - providers
+    - data
+        - models
+        - resps
+    - routes
+    - settings
+    - temp
+        - labs
+        - catalog
+    - themes
+    - tools
+        - helpers
+    - ui
+        - layouts
+        - pages
+        - views
+        - widgets
         
-
-
 - pubspec.yaml
 
 
