@@ -8,7 +8,7 @@ Plantilla de esquema Flutter.
     -icons
     -images
 - lib
-    -core
+    \n -core
         -controllers
         -services
         -providers
