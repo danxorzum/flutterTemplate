@@ -5,8 +5,8 @@ Plantilla de esquema Flutter.
 ## Estructura de folders
 
 - assets
-    -icons
-    -images
+    - icons
+    - images
 - lib
     - core
         - controllers
